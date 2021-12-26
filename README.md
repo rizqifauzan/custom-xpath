@@ -1,4 +1,4 @@
-## Custom Xpath
+## Xpath
 
 bahasa kueri untuk memilih bagian - bagian (nodes) dari sebuah dokumen XML
 
